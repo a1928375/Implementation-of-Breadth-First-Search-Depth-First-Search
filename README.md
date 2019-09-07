@@ -6,5 +6,5 @@ An alternative algorithm called Breath-First search provides us with the ability
 2. Implementation of Depth-First Search
 This algorithm we will be discussing is Depth-First search which as the name hints at, explores possible vertices (from a supplied root) down each branch before backtracking. This property allows the algorithm to be implemented succinctly in both iterative and recursive forms. Below is a listing of the actions performed upon each visit to a node.
 
-  (1) Mark the current vertex as being visited.
-  (2) Explore each adjacent vertex that is not included in the visited set.
+    (1) Mark the current vertex as being visited.
+    (2) Explore each adjacent vertex that is not included in the visited set.
